@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+results/*.csv
+charts/*.png
+charts/*.svg
